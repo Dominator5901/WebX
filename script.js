@@ -1,1 +1,1 @@
-javascript:(function () {var a = document.createElement('script');a.src = 'https://cdn.jsdelivr.net/gh/Dominator5901/WebX@1cb6af9b78474732367a3514a5bdfa71730b42fc/function.js';document.body.appendChild(a);}())
+javascript:(function () {var a = document.createElement('script');a.src = 'https://cdn.jsdelivr.net/gh/Dominator5901/WebX@96a35c6c01efd2acb9ccd0e37547861b1bcb40b6/script.js';document.body.appendChild(a);}())
