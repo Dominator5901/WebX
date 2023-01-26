@@ -1,0 +1,1 @@
+javascript:(function () {var a = document.createElement('script');a.src = 'https://cdn.jsdelivr.net/gh/Dominator5901/WebX@1cb6af9b78474732367a3514a5bdfa71730b42fc/webx.min.js';document.body.appendChild(a);}())
